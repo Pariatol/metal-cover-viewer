@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "445b6224ea575999f87070f0b2bf6eb7",
+    "revision": "d150073cbc9cc9ab781b553690f448f1",
     "url": "/metal-cover-viewer/index.html"
   },
   {
-    "revision": "48d38ffd097471745485",
-    "url": "/metal-cover-viewer/static/css/main.46a864b7.chunk.css"
+    "revision": "9dff4825f7e3f286c4a5",
+    "url": "/metal-cover-viewer/static/css/main.6101c28e.chunk.css"
   },
   {
     "revision": "c60f59c0839a6f7ce367",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/metal-cover-viewer/static/js/2.eb3a5f84.chunk.js.LICENSE"
   },
   {
-    "revision": "48d38ffd097471745485",
+    "revision": "9dff4825f7e3f286c4a5",
     "url": "/metal-cover-viewer/static/js/main.5bc37ea1.chunk.js"
   },
   {
