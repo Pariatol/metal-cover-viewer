@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/metal-cover-viewer/static/css/main.6101c28e.chunk.css",
+    "main.css": "/metal-cover-viewer/static/css/main.f3ade401.chunk.css",
     "main.js": "/metal-cover-viewer/static/js/main.5bc37ea1.chunk.js",
     "main.js.map": "/metal-cover-viewer/static/js/main.5bc37ea1.chunk.js.map",
     "runtime-main.js": "/metal-cover-viewer/static/js/runtime-main.8e1bccb0.js",
@@ -8,15 +8,15 @@
     "static/js/2.eb3a5f84.chunk.js": "/metal-cover-viewer/static/js/2.eb3a5f84.chunk.js",
     "static/js/2.eb3a5f84.chunk.js.map": "/metal-cover-viewer/static/js/2.eb3a5f84.chunk.js.map",
     "index.html": "/metal-cover-viewer/index.html",
-    "precache-manifest.4cde7409c92f89b204b4a17143d780f1.js": "/metal-cover-viewer/precache-manifest.4cde7409c92f89b204b4a17143d780f1.js",
+    "precache-manifest.e202f53e8ea6b9c815c8d8c0793feca9.js": "/metal-cover-viewer/precache-manifest.e202f53e8ea6b9c815c8d8c0793feca9.js",
     "service-worker.js": "/metal-cover-viewer/service-worker.js",
-    "static/css/main.6101c28e.chunk.css.map": "/metal-cover-viewer/static/css/main.6101c28e.chunk.css.map",
+    "static/css/main.f3ade401.chunk.css.map": "/metal-cover-viewer/static/css/main.f3ade401.chunk.css.map",
     "static/js/2.eb3a5f84.chunk.js.LICENSE": "/metal-cover-viewer/static/js/2.eb3a5f84.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.8e1bccb0.js",
     "static/js/2.eb3a5f84.chunk.js",
-    "static/css/main.6101c28e.chunk.css",
+    "static/css/main.f3ade401.chunk.css",
     "static/js/main.5bc37ea1.chunk.js"
   ]
 }
