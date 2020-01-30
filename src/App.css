@@ -50,8 +50,9 @@ img{
 
   .cover:hover .new{
     opacity: 1;
-    bottom:80%;
+    bottom:88%;
     left:0%;
+    font-size:1.4rem;
   }
 
   
