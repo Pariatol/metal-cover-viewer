@@ -654,6 +654,186 @@ const covers = [
     img:"http://www.hornsup.fr/uploads/files/INTERVIEWS/2018/Harakiri%20for%20the%20SKy/HarakiriForTheSky_2018_Arson_cover.jpg",
     band:"Harakiri For The Sky",
     album:"Arson"
+  },
+  {
+    img:"https://images-na.ssl-images-amazon.com/images/I/81cz%2BhcSuML._SL1425_.jpg",
+    band:"Summoning",
+    album:"Old Mornings Dawn"
+  },
+  {
+    img:"https://www.coreandco.fr/upload/pics/albums2/big/devin-townsend-empath-7106.jpg",
+    band:"Devin Townsend",
+    album:"Empath"
+  },
+  {
+    img:"https://img.discogs.com/2UjVcHuSRRP2vl5qtWUiHi7AYgA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-399180-1227581670.jpeg.jpg",
+    band:"Morbid Angel",
+    album:"Gateways To Annihilation"
+  },
+  {
+    img:"http://www.nuclearblast.de/de/data/bands/memoriam/releases/memoriam-the-silent-vigil.jpg?x=666",
+    band:"Memorial",
+    album:"The Silent Vigil"
+  },
+  {
+    img:"https://www.nuclearblast.de/de/data/bands/vader/releases/vader-tibi-et-igni.jpg?x=520",
+    band:"Vader",
+    album:"Tibi Et Igni"
+  },
+  {
+    img:"https://img.discogs.com/6rtADJJefs2NKrsc3nWS87fXp2o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3295336-1401879710-3489.jpeg.jpg",
+    band:"Vader",
+    album:"De Profundis"
+  },
+  {
+    img:"https://img.discogs.com/-h6yNSdEI7jeIebCpDlUL8RNH9Y=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3225420-1321260087.jpeg.jpg",
+    band:"Morgoth",
+    album:"Odium"
+  },
+  {
+    img:"https://www.spirit-of-metal.com/les%20goupes/A/Au-Dessus/End%20of%20Chapter/End%20of%20Chapter_3391.jpg",
+    band:"Au-Dessus",
+    album:"End Of Chapter"
+  },
+  {
+    img:"https://img.cdandlp.com/2018/05/imgL/119169004.jpg",
+    band:"Helloween",
+    album:"Keeper Of The Seven Keys - Part II"
+  },
+  {
+    img:"https://www.artandbiz.cafe/docs/articles/19/r-1073712-1510230828-5953jpeg_1572533328.jpeg",
+    band:"Helloween",
+    album:"Keeper Of The Seven Keys - Part I"
+  },
+  {
+    img:"https://i.pinimg.com/originals/2a/d5/5f/2ad55f77af57c6e3467b1dc06111cd89.jpg",
+    band:"Helloween",
+    album:"Walls Of Jericho"
+  },
+  {
+    img:"https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/83/37/3e/83373e72-9565-721e-bc04-5b48036c6af6/source/1200x1200bb.jpg",
+    band:"Helloween",
+    album:"Straight Out Of Hell"
+  },
+  {
+    img:"https://hardrock80fr.files.wordpress.com/2018/05/dm5yhfixcaajazt.jpg?w=300&h=300",
+    band:"Helloween",
+    album:"Metal Jukebox"
+  },
+  {
+    img:"https://media.ultratop.be/cover/big/edguy-mandrake_a.jpg",
+    band:"Edguy",
+    album:"Mandrake"
+  },
+  {
+    img:"https://images-na.ssl-images-amazon.com/images/I/818RGMei08L._SL1500_.jpg",
+    band:"Edguy",
+    album:"Rocket Ride"
+  },
+  {
+    img:"https://www.nuclearblast.de/static/articles/186/186872.jpg/1000x1000.jpg",
+    band:"Edguy",
+    album:"Age Of The Joker"
+  },
+  {
+    img:"https://www.rockurlife.net/wp-content/uploads/2019/02/Edguy_Space_Police_Defenders_Of_The_Crown_Artwork.jpg",
+    band:"Edguy",
+    album:"Space Police"
+  },
+  {
+    img:"https://images-na.ssl-images-amazon.com/images/I/A1%2BDmKwuS8L._SL1500_.jpg",
+    band:"Edguy",
+    album:"Monuments"
+  },
+  {
+    img:"https://img.discogs.com/rGk8JZTbq0cMG--FXbNcLhoGGGU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467847-1529268889-6877.jpeg.jpg",
+    band:"Stratovarius",
+    album:"Visions"
+  },
+  {
+    img:"https://m.media-amazon.com/images/I/816afaNB+oL._SS500_.jpg",
+    band:"Stratovarius",
+    album:"Elysium"
+  },
+  {
+    img:"https://m.media-amazon.com/images/I/81C5qBsf2NL._SS500_.jpg",
+    band:"Sonata Artica",
+    album:"The Ninth Hour"
+  },
+  {
+    img:"https://images-na.ssl-images-amazon.com/images/I/91TrimNFNKL._SL1500_.jpg",
+    band:"Sigh",
+    album:"Heir To Despair"
+  },
+  {
+    img:"https://www.spirit-of-metal.com/cover.php?id_album=156",
+    band:"Mayhem",
+    album:"De Mysteriis Dom Sathanas"
+  },
+  {
+    img:"https://critiquedesalon.files.wordpress.com/2013/09/pitiful_reign-visual_violence-frontal.jpg",
+    band:"Pitiful Reign",
+    album:"Visual Violence"
+  },
+  {
+    img:"https://f4.bcbits.com/img/a1268170864_10.jpg",
+    band:"Exeloume",
+    album:"Fairytale Of Perversion"
+  },
+  {
+    img:"https://www.metal-archives.com/images/3/7/1/3/371316.jpg?0851",
+    band:"Exeloume",
+    album:"Return Of The Nephilim"
+  },
+  {
+    img:"http://agoraphobic-news.com/public/data_uploads/ed_repka_s_best_50_album_covers_1547306930_1175275244/_1547308262_137330743.png",
+    band:"Ultra-Violence",
+    album:"Privilege To Overcome"
+  },
+  {
+    img:"http://agoraphobic-news.com/public/data_uploads/ed_repka_s_best_50_album_covers_1547306930_1175275244/_1547308357_20509812.png",
+    band:"Traitor",
+    album:"Knee-Deep In The Dead"
+  },
+  {
+    img:"http://agoraphobic-news.com/public/data_uploads/ed_repka_s_best_50_album_covers_1547306930_1175275244/_1547308495_42198518.png",
+    band:"Abiotx",
+    album:"Straight To Hell"
+  },
+  {
+    img:"http://agoraphobic-news.com/public/data_uploads/ed_repka_s_best_50_album_covers_1547306930_1175275244/_1547308586_938957911.png",
+    band:"Frade Negro",
+    album:"Black Souls In The Abyss"
+  },
+  {
+    img:"http://agoraphobic-news.com/public/data_uploads/ed_repka_s_best_50_album_covers_1547306930_1175275244/_1547308663_313317.png",
+    band:"Panico Al Miedo",
+    album:"Formador"
+  },
+  {
+    img:"http://agoraphobic-news.com/public/data_uploads/ed_repka_s_best_50_album_covers_1547306930_1175275244/_1547308780_2024688621.png",
+    band:"Untimely Demise",
+    album:"Black Widow"
+  },
+  {
+    img:"http://agoraphobic-news.com/public/data_uploads/ed_repka_s_best_50_album_covers_1547306930_1175275244/_1547308856_898909231.png",
+    band:"Evil Survives",
+    album:"Judas Priest Live"
+  },
+  {
+    img:"http://agoraphobic-news.com/public/data_uploads/ed_repka_s_best_50_album_covers_1547306930_1175275244/_1547308941_195070364.png",
+    band:"After All",
+    album:"Rejection Overruled"
+  },
+  {
+    img:"http://agoraphobic-news.com/public/data_uploads/ed_repka_s_best_50_album_covers_1547306930_1175275244/_1547309240_215528448.png",
+    band:"Solstice",
+    album:"Solstice"
+  },
+  {
+    img:"http://agoraphobic-news.com/public/data_uploads/ed_repka_s_best_50_album_covers_1547306930_1175275244/_1547309493_947922822.png",
+    band:"Eliminator",
+    album:"Breaking The Wheel"
   }
 ]
 
