@@ -1,0 +1,75 @@
+@mixin centerXY{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin mobileOnly($screensize){
+    @media (max-width:$screensize){
+        @content;
+    }
+}
+
+body{
+    margin:0;
+    padding:0;
+    height:100vh;
+    @include centerXY;
+    background-color: #0f1114;
+  }
+
+.App{
+    height:95vh;
+    @include centerXY;
+    flex-direction:column;
+
+    .cover{
+
+        @include centerXY;
+        flex-direction:column;
+        font-family: 'Metal Mania', cursive;
+        color:white;
+        font-size:2rem;
+        @include mobileOnly(415px){
+            font-size:2rem;
+        }
+
+        img{
+            margin-top:5rem;
+            height:32rem;
+            width:32rem;
+            border:9px solid black;
+            @include mobileOnly(415px){
+                height:20rem;
+                width:20rem;
+            }
+            @include mobileOnly(320px){
+                height:15rem;
+                width:15rem;
+            }
+        }
+
+        .new{
+            opacity:0;
+        }
+
+        &:hover{
+            .new{
+                opacity:1;
+                position:relative;
+                bottom:70%;
+                left:90%;
+                font-family: 'Metal Mania', cursive;
+                color:white;
+                text-shadow:2px 2px 2px black;
+                @include mobileOnly(415px){
+                    opacity: 1;
+                    bottom:88%;
+                    left:0%;
+                    font-size:1.4rem;
+                }
+            }
+        }
+    }
+    
+}

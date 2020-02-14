@@ -1,66 +1,71 @@
-.App{
-  height:95vh;
-  display:flex;
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction:column;
+  background-color: #0f1114;
 }
 
-img{
-  margin-top:5rem;
-  height:32rem;
-  width:32rem;
-  border:9px solid black;
-}
-
-.cover{
-  display:flex;
+.App {
+  height: 95vh;
+  display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction:column;
-  font-family: 'Metal Mania', cursive;
-  color:white;
-  font-size:2rem;
+  flex-direction: column;
 }
-
-.new{
-  opacity:0;
+.App .cover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Metal Mania", cursive;
+  color: white;
+  font-size: 2rem;
 }
-
-.cover:hover .new{
-  opacity:1;
-  position:relative;
-  bottom:70%;
-  left:90%;
-  font-family: 'Metal Mania', cursive;
-  color:white;
-  text-shadow:2px 2px 2px black;
-}
-
-
-@media (max-width:415px){
-  img{
-    height:20rem;
-    width:20rem;
+@media (max-width: 415px) {
+  .App .cover {
+    font-size: 2rem;
   }
-
-  .cover{
-    font-size:2rem;
+}
+.App .cover img {
+  margin-top: 5rem;
+  height: 32rem;
+  width: 32rem;
+  border: 9px solid black;
+}
+@media (max-width: 415px) {
+  .App .cover img {
+    height: 20rem;
+    width: 20rem;
   }
-
-  .cover:hover .new{
+}
+@media (max-width: 320px) {
+  .App .cover img {
+    height: 15rem;
+    width: 15rem;
+  }
+}
+.App .cover .new {
+  opacity: 0;
+}
+.App .cover:hover .new {
+  opacity: 1;
+  position: relative;
+  bottom: 70%;
+  left: 90%;
+  font-family: "Metal Mania", cursive;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
+@media (max-width: 415px) {
+  .App .cover:hover .new {
     opacity: 1;
-    bottom:88%;
-    left:0%;
-    font-size:1.4rem;
-  }
-
-  
-}
-
-@media (max-width:320px){
-  img{
-    height:15rem;
-    width:15rem;
+    bottom: 88%;
+    left: 0%;
+    font-size: 1.4rem;
   }
 }
+
+/*# sourceMappingURL=App.css.map */
